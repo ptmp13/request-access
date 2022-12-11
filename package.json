@@ -56,10 +56,10 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://mytest.local:844",
+  "proxy": "http://oracleadmintst.gksm.local:844",
   "options": {
     "allowedHosts": [
-      "ololol",
+      "oracleadmintst.gksm.local",
       "localhost",
       "tmphome"
     ]
